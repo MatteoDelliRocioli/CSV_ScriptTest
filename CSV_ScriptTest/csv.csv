@@ -1,0 +1,9 @@
+﻿Ambito,Codice Sottocategoria,Impianto,Centro di Costo,Data di scadenza,Codice/i Impianto (cespite o cespiti),Ruoli con visibilità,Responsabile (email),Ruolo validatore,"Rinnovo
+in data scadenza (S) – come il bollo /
+In data esecuzione (E) – come cambio olio","Giorni al rinnovo
+(si rinnova dopo X giorni)",Giorni anticipo notifica,Note
+Ambiente,01.01,San Giorgio,D213,2020-12-31,M001,RCP; SACP,a.tel@idealservice.it,ASPP,S,90,10,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Ambiti:,"Ambiente, Sicurezza",,,,,,,,,,,
+Ruoli:,DID; RSP; ASP; UT; CI; REA; RCP; ASQ; RSACP; SACP; RMAG; MAG; RPROD; VRPROD; CSA; CSS; CSP; ALI; SEL; PRE; RMAN; MAN; JOLLY;,,,,,,,,,,,
